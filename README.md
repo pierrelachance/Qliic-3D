@@ -2,7 +2,8 @@
 Fichiers pour impression 3D des pièces Arduino-Lego-Qliic
 
 Projet http://qliic.org (Coopérathon 2017)
-Chaine Youtube du prjet https://www.youtube.com/channel/UCTCfYawAaJmS3M7o3md7rTw
+
+Chaine Youtube du projet https://www.youtube.com/channel/UCTCfYawAaJmS3M7o3md7rTw
 
 Robot bolide de départ : http://recitmst.qc.ca/arduino/bolide-aestq/
 
