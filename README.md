@@ -17,4 +17,4 @@ https://www.thingiverse.com/thing:2415906
 
 https://www.thingiverse.com/thing:615256
 
-Tinkercad utilisé pour percer et autres manipulations sur les fichiers stl porduit par Openscad.
+Tinkercad utilisé pour percer et autres manipulations sur les fichiers stl produits par Openscad.
