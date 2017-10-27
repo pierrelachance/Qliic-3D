@@ -19,4 +19,6 @@ https://www.thingiverse.com/thing:6152564
 
 https://pinshape.com/items/35908-3d-printed-arduino-uno-chipkit-uc32-lego-case
 
+https://www.thingiverse.com/thing:250683
+
 Tinkercad utilisé pour percer et autres manipulations sur les fichiers stl produits par Openscad.
